@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "178868168062",
+    "firebase_url": "https://d-vietpro-default-rtdb.firebaseio.com",
+    "project_id": "d-vietpro",
+    "storage_bucket": "d-vietpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178868168062:android:ddc5e8a1b71474eef6ff2f",
+        "android_client_info": {
+          "package_name": "com.laer.as"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfbLTvEGciXPQhTFTRd8Qnc2jC4qPeugc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178868168062:android:e8fc587c291dfd71f6ff2f",
+        "android_client_info": {
+          "package_name": "com.test.Learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfbLTvEGciXPQhTFTRd8Qnc2jC4qPeugc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

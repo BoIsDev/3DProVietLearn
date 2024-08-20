@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5ad8d90ae9a0e5548a2b9eaa3d0335d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textMeshPro: {instanceID: 0}
+  - spriteAsset: {fileID: 11400000, guid: 10c50dad2526dbc41b5bd2aca16e8272, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
